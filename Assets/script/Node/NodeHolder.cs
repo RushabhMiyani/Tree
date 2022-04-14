@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NodeHolder : MonoBehaviour
 {
+    /*
     [SerializeField] GameObject leftClick;
     [SerializeField] Vector3 offset;
     [SerializeField]private RectTransform rectTransform;
@@ -29,4 +30,5 @@ public class NodeHolder : MonoBehaviour
     {
         
     }
+    */
 }
